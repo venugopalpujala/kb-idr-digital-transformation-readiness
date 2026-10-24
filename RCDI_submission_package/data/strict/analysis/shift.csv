@@ -1,0 +1,7 @@
+held_out_workload,setting,bayes_cost,bayes_uncaught,crc_uncaught,crc_cost,ece,share_crc_over_alpha
+gsm8k,shifted,5.2397,0.0003,0.0003,5.2397,0.2297,0.0000
+gsm8k,in_workload,3.8273,0.0545,0.0467,3.8811,0.0297,0.3800
+hotpotqa,shifted,9.7650,0.3104,0.2957,9.5654,0.2191,1.0000
+hotpotqa,in_workload,5.2420,0.0080,0.0080,5.2420,0.0661,0.0000
+banking77,shifted,11.6558,0.4424,0.4424,11.6558,0.3430,1.0000
+banking77,in_workload,5.6149,0.0626,0.0429,5.4541,0.0649,0.5000

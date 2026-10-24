@@ -1,0 +1,10 @@
+workload,tier,accuracy,n
+gsm8k,S,0.5487,800
+gsm8k,M,0.6025,800
+gsm8k,L,0.8950,800
+hotpotqa,S,0.4400,800
+hotpotqa,M,0.6175,800
+hotpotqa,L,0.6837,800
+banking77,S,0.4500,800
+banking77,M,0.6250,800
+banking77,L,0.7025,800
